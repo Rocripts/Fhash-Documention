@@ -1,2 +1,8 @@
 # Fhash-Documention
-What is a "Fhash"new food? 
+
+# Booting function
+```lua
+local function name()
+  -- code here --
+end
+```
