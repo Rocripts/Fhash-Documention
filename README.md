@@ -18,12 +18,15 @@ your message here
 variables have 2 type :
 
 • local
+-
 • global
 
 local is for variable that lives only inside a block code or scope, 
 global is for variable that lives anywhere
 
-📝 ```many dev recommend use local for smooth execution```
+📝 ```txt
+many dev recommend use local for smooth execution
+```
 
 **make a local variable**
 ```lua
