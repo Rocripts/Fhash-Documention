@@ -3,4 +3,7 @@
 
 available language :
 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) lua
+<div align="center">
+  <img src="[attachment_1](attachment)" width="150" alt="Lua Logo">
+</div>
+Lua
