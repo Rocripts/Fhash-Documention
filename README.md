@@ -1,17 +1,14 @@
 # Fhash-Documention
 Fhash helps you roblox scripting with Fhash built in functions! 
 
-on this Documeantion i will teach you to how make a function yourself! 
+on this Documeantion i will teach you luau! 
 
-# Booting function
+# print
 ```lua
-local function name()
-  -- code here --
-end
+print("your message here") 
 ```
-***with parameters***
+
+**output**
 ```lua
-local function name(par1) 
-  -- code here --
-end
+your message here
 ```
