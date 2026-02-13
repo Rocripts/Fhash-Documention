@@ -3,7 +3,4 @@
 
 available language :
 
-<div align="center">
-  <img src="[attachment_1](attachment)" width="150" alt="Lua Logo">
-</div>
-Lua
+• ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white) luau
